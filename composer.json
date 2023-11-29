@@ -1,5 +1,6 @@
 {
     "name": "esca7a/evmodel",
+    "version": "v1.0.0",
     "description": "on the side of learn a create bitrix package for composer",
     "minimum-stability": "dev",
     "license": "proprietary",
